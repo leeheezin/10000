@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/10000/static/css/main.daf94649.css",
+    "main.js": "/10000/static/js/main.34814376.js",
+    "static/media/licat.png": "/10000/static/media/licat.b32a67e86adbbc7d33a8.png",
+    "static/media/title_bg.png": "/10000/static/media/title_bg.aa3294909edfbab96c13.png",
+    "index.html": "/10000/index.html",
+    "main.daf94649.css.map": "/10000/static/css/main.daf94649.css.map",
+    "main.34814376.js.map": "/10000/static/js/main.34814376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf94649.css",
+    "static/js/main.34814376.js"
+  ]
+}
